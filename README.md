@@ -10,15 +10,15 @@ I am a software engineering student specializing in building resilient, scalable
 - 🎓 Final-year B.Tech (CSE) student at **Netaji Subhas University of Technology (NSUT)**.
 - 💻 Currently working on **Java, Spring Boot** applications.
 - 🌱 Currently exploring: **LLM Integrations , Spring AI**.
-- ⚡ **Problem Solving:** Solved hundreds of algorithmic challenges. Check out my [LeetCode Profile](https://leetcode.com/u/tomato_being/).
+- ⚡ **Problem Solving:** Solved hundreds of algorithmic challenges. Check out my [![LeetCode](https://img.shields.io/badge/-LeetCode_Profile-FFA116?style=plastic&logo=leetcode&logoColor=black)](https://leetcode.com/u/tomato_being/).
 - 📫 How to reach me:
 &nbsp;&nbsp;&nbsp;
-  <a href="(https://www.linkedin.com/in/ume5h-kumar/)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="35" height="35" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/ume5h-kumar/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="35" height="35" style="vertical-align: middle;">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:tamatarlaaleh@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="35" height="35">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=umeshkumar90755@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="35" height="35" style="vertical-align: middle;">
   </a>
   
   Gmail: **umeshkumar90755@gmail.com**
@@ -28,30 +28,30 @@ I am a software engineering student specializing in building resilient, scalable
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=postgresql&logoColor=white)
 
 **Backend & Frameworks:**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=plastic&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white)
 
 **Databases:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
 
 **Tools & Architecture:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=JSON%20web%20tokens&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UME5H-KUMAR&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=UME5H-KUMAR&theme=radical" alt="GitHub Streak" />
 </p>
