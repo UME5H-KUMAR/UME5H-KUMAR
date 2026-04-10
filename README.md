@@ -11,9 +11,17 @@ I am a software engineering student specializing in building resilient, scalable
 - 💻 Currently working on **Java, Spring Boot** applications.
 - 🌱 Currently exploring: **LLM Integrations , Spring AI**.
 - ⚡ **Problem Solving:** Solved hundreds of algorithmic challenges. Check out my [LeetCode Profile](https://leetcode.com/u/tomato_being/).
-- 📫 How to reach me: 
-                  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ume5h-kumar/))
-                  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamatarlaaleh@gmail.com)
+- 📫 How to reach me:
+&nbsp;&nbsp;&nbsp;
+  <a href="(https://www.linkedin.com/in/ume5h-kumar/)">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="35" height="35" style="margin-right: 10px;">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tamatarlaaleh@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="35" height="35">
+  </a>
+  
+  Gmail: **umeshkumar90755@gmail.com**
 
 ---
 
