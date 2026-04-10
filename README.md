@@ -11,7 +11,9 @@ I am a software engineering student specializing in building resilient, scalable
 - 💻 Currently working on **Java, Spring Boot** applications.
 - 🌱 Currently exploring: **LLM Integrations , Spring AI**.
 - ⚡ **Problem Solving:** Solved hundreds of algorithmic challenges. Check out my [LeetCode Profile](https://leetcode.com/u/tomato_being/).
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ume5h-kumar/) | [Email](tamatarlaaleh@gmail.com)
+- 📫 How to reach me: 
+                  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ume5h-kumar/))
+                  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamatarlaaleh@gmail.com)
 
 ---
 
