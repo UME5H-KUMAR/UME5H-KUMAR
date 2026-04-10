@@ -28,24 +28,24 @@ I am a software engineering student specializing in building resilient, scalable
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=postgresql&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)](https://www.geeksforgeeks.org/java/)
+[![Python](https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white)](https://www.geeksforgeeks.org/python-programming-language/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
 
 **Backend & Frameworks:**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=plastic&logo=spring-security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=plastic&logo=spring-security&logoColor=white)](https://spring.io/projects/spring-security)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white)](https://hibernate.org/orm/)
 
 **Databases:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)](https://www.w3schools.com/mysql/)
 
 **Tools & Architecture:**
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=JSON%20web%20tokens&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)](https://learning.postman.com/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/introduction)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white)](https://maven.apache.org/what-is-maven.html)
 
 ---
 
