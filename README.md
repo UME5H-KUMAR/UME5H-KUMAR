@@ -17,11 +17,11 @@ I am a software engineering student specializing in building resilient, scalable
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="35" height="35" style="vertical-align: middle;">
   </a>
   &nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=umeshkumar90755@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=umesskumar11@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="35" height="35" style="vertical-align: middle;">
   </a>
   
-  Gmail: **umeshkumar90755@gmail.com**
+  Gmail: **umesskumar11@gmail.com**
 
 ---
 
